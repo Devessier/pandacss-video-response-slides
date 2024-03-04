@@ -397,6 +397,10 @@ const App = () => (
 
 ---
 
+# Slot recipes
+
+---
+
 <div class="-mt-6">
 
 ```tsx
